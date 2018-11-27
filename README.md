@@ -7,7 +7,7 @@
 >这里我也尝试用Swift写了一个水波进度的demo,和大家一起分享一下
 >下面请先看效果图：
 
-![1.gif](https://upload-images.jianshu.io/upload_images/1411806-fa655074e70a7c7a.gif?imageMogr2/auto-orient/strip)
+![1.gif](https://upload-images.jianshu.io/upload_images/1411806-fa655074e70a7c7a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/200/format/webp)
 ##知识点分析
 
 > 1.首先就是波浪的形状，是不是忽然感觉很熟悉但是又想不起来，其实就是大家上学时很早就会的公式---> y=Asin(ωx+φ)+B，没错，就是正弦函数，我们先来简单复习下每个参数的含义：
